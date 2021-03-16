@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 8px;
+  padding: 30px;
+  background-color: white;
+}
+
+.quote {
+  font-size: 20px;
+}
+
+.author {
+  float: right;
+  margin-top: 20px;
+}
+
+.button {
+  margin-top: 20px;
+}

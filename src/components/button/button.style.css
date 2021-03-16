@@ -1,0 +1,8 @@
+.input {
+  border: 1px solid;
+  padding: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  text-align: center;
+}
